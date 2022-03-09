@@ -11,7 +11,7 @@
 
 | Structure | Description |
 | --- | ----------- |
-| 数组(Array) | 它是与数据元素的索引配对的顺序排列 |
+| [数组(Array)](https://gwt9970161.github.io/Array/) | 它是与数据元素的索引配对的顺序排列 |
 | 链表(Linked List) | 每个数据元素都包含指向另一个元素的链接以及其中的数据 |
 | 数组(Array) | 它是与数据元素的索引配对的顺序排列 |
 | 栈(Stack) | 它是一种数据结构，仅遵循特定的操作顺序。LIFO(Last In First Out，后进先出)或者(First In Last Out. 先进后出) |
