@@ -1,4 +1,4 @@
-# 数据结构与算法---python
+# [数据结构与算法---python](https://gwt9970161.github.io/Data-structue-and-algorithym-python/)
 
 本笔记旨在从头学习数据结构与算法的重要知识点
 
