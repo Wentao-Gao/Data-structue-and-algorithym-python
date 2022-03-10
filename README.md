@@ -12,7 +12,7 @@
 | Structure | Description |
 | --- | ----------- |
 | [数组(Array)](https://gwt9970161.github.io/Array/) | 它是与数据元素的索引配对的顺序排列 |
-| [链表(Linked List) ](https://github.com/gwt9970161/Data-structue-and-algorithym-python/blob/main/%E9%93%BE%E8%A1%A8)| 每个数据元素都包含指向另一个元素的链接以及其中的数据 |
+| [链表(Linked List) ](https://github.com/gwt9970161/Data-structue-and-algorithym-python/blob/main/%E9%93%BE%E8%A1%A8.md)| 每个数据元素都包含指向另一个元素的链接以及其中的数据 |
 | 数组(Array) | 它是与数据元素的索引配对的顺序排列 |
 | 栈(Stack) | 它是一种数据结构，仅遵循特定的操作顺序。LIFO(Last In First Out，后进先出)或者(First In Last Out. 先进后出) |
 | 队列(Queue) | 它与Stack类似，但操作顺序仅为FIFO(First In First Out，先进先出) |
