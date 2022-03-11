@@ -1,5 +1,7 @@
 # [数据结构与算法---python](https://gwt9970161.github.io/Data-structue-and-algorithym-python/)
 
+[学习路线](https://gwt9970161.github.io/Think-Different/)
+
 本笔记旨在从头学习数据结构与算法的重要知识点
 
 数据结构是计算机科学的基础，有助于编写任何语言的高效程序。本笔记基于python这一语言进行学习。
